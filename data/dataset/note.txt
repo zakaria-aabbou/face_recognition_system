@@ -1,0 +1,2 @@
+Put here the images of the persons
+The images should be in one file with the person's name on it

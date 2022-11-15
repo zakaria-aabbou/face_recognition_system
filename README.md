@@ -1,4 +1,4 @@
-# face_recognition_system
+# Face_Recognition_System
 
 The objective of this work is to implement a real-time facial recognition and authentication application for WISD Masters students.
 
